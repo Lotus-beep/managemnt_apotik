@@ -1,0 +1,113 @@
+a:hover{
+    background-color: rgb(2, 189, 252);
+}
+.table{
+    margin-top: 40px;
+    width: 100%;
+    border-collapse: collapse;
+    height: 500px;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+h1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.tambahkan{
+    margin-top: 20;
+    margin-left: 80%;
+}
+
+.App {
+    background-color: white;
+  }
+  
+  .Auth-form-container {
+    display: flex;
+    margin-left: 300px;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: transparent;
+    opacity: 1;
+  }
+  
+  .Auth-form {
+    width: 420px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 10px;
+  }
+
+  .d-flex.flex-row{  
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 800;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
+
+  .form-select{
+    width: 320px;
+  }
+
+  .thead, .tbody {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+  }
+  
+  .tbody {
+    display: block;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .thead th, .tbody td {
+    text-align: center;
+    width: 14.28%; /* Approximate width to evenly distribute columns */
+  }
+  
+  .tbody tr {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+  }
+
+  .tombol{
+    right: 100px;
+  }
+
+  .judul{
+    margin-left: 10px;
+    margin-bottom: 50px;
+  }
+  
+  
