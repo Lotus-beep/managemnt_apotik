@@ -110,7 +110,7 @@ const Beranda = ({ items,judul }) => {
                 <button className='btn btn-warning' onClick={()=> Showsupdate(item.id_barang)}><GrDocumentUpdate /></button>
                 <button className='btn btn-danger' onClick={() => handleDelete(item.id_barang,item.id_barang)}><MdDelete /></button>
                 </div>
-              </td>
+              </td>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
             </tr>
           ))}
         </tbody>
