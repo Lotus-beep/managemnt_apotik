@@ -1,6 +1,5 @@
-<!-- --- ini adalah projekan yang berfokus untuk menangani system management barang apotik dari masuk barang,keluar barang dan riwayat ...
+--- ini adalah projekan yang berfokus untuk menangani system management barang apotik dari masuk barang,keluar barang dan riwayat ...
 --- untuk database ada di file database sql
 --- untuk file back end ada di system dan menjalan dengan node index
 --- untuk file front end ada di my-app dan menjalankannya npm start
---- sebelum menjalankan project kedua folder tersebut(system,my-app) tersebut harus menjalankan npm install untuk mendowload depedency yang di perlukan di terminal -->
-
+--- sebelum menjalankan project kedua folder tersebut(system,my-app) tersebut harus menjalankan npm install untuk mendowload depedency yang di perlukan di terminal
