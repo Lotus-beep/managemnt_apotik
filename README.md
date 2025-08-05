@@ -2,3 +2,5 @@
 --- untuk database ada di file database sql
 --- untuk file back end ada di system dan menjalan dengan node index
 --- untuk file front end ada di my-app dan menjalankannya npm start
+--- sebelum menjalankan project kedua folder tersebut(system,my-app) tersebut harus menjalankan npm install untuk mendowload depedency yang di perlukan di terminal
+
